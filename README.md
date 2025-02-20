@@ -42,5 +42,4 @@ This approach becomes cumbersome and error-prone as the number of states and the
 
 # UML CLASS DIAGRAM
 
-![Copy of UML Class Diagram](https://github.com/user-attachments/assets/78de500a-991a-4677-bb99-00cba40d85ea)
-
+![Copy of UML Class Diagram (1)](https://github.com/user-attachments/assets/bd44f8ef-14be-49c3-b40d-075ab17131ee)
